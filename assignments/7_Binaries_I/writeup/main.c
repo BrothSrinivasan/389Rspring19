@@ -27,5 +27,3 @@ int main()
 	
 	return 0;
 }
-
-// The code is XOR swap meant to switch the values of variable v1 and v2
