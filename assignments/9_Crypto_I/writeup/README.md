@@ -1,12 +1,12 @@
 # Crypto I Writeup
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
+Name: Barath Srinivasan
+Section: 0202
 
 I pledge on my honor that I have not given or received any unauthorized
 assistance on this assignment or examination.
 
-Digital acknowledgement: *PUT YOUR NAME HERE*
+Digital acknowledgement: Barath Srinivasan
 
 ## Assignment Writeup
 
