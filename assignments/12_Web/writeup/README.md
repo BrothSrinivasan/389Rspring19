@@ -6,7 +6,7 @@ Section: 0202
 I pledge on my honor that I have not given or received any unauthorized
 assistance on this assignment or examination.
 
-Digital acknowledgement: Barath
+Digital acknowledgement: Barath Srinivasan
 
 ## Assignment Writeup
 
